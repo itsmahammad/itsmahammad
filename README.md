@@ -124,11 +124,14 @@ environment : Linux-first mindset
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsmahammad&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" />
+  <img src="https://img.shields.io/github/followers/itsmahammad?style=for-the-badge&logo=github&logoColor=9be7ff&label=Followers&labelColor=08111f&color=0f172a" />
+  <img src="https://img.shields.io/github/stars/itsmahammad?style=for-the-badge&logo=github&logoColor=9be7ff&label=User%20Stars&labelColor=08111f&color=0f172a" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Systems-0f172a?style=for-the-badge&logo=githubactions&logoColor=9be7ff&labelColor=08111f" />
+  <img src="https://img.shields.io/badge/Discipline-Clean%20Architecture-0f172a?style=for-the-badge&logo=dependabot&logoColor=9be7ff&labelColor=08111f" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=itsmahammad&theme=github-compact&hide_border=true&bg_color=0D1117&color=D7E7FF&line=00D1FF&point=6C63FF&area=true" width="95%" />
+  <img src="https://ghchart.rshah.org/00d1ff/itsmahammad" alt="Mahammad's contribution graph" width="95%" />
 </p>
 
 ---
@@ -173,4 +176,3 @@ If you are building systems where correctness, maintainability, and delivery dis
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:08111f,48:0f2a3d,78:00d1ff,100:5b2cff" />
 </p>
-
