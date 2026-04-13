@@ -115,12 +115,12 @@ environment : Linux-first mindset
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsmahammad&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=9be7ff&text_color=d7e7ff&icon_color=6c63ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmahammad&layout=compact&hide_border=true&bg_color=00000000&title_color=9be7ff&text_color=d7e7ff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsmahammad&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmahammad&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=itsmahammad&hide_border=true&background=00000000&ring=9BE7FF&fire=6C63FF&currStreakLabel=9BE7FF&sideNums=D7E7FF&currStreakNum=D7E7FF&dates=8AA4BF&sideLabels=8AA4BF" />
+  <img height="170" src="https://streak-stats.demolab.com?user=itsmahammad&hide_border=true&background=0D1117&ring=9BE7FF&fire=6C63FF&currStreakLabel=9BE7FF&sideNums=D7E7FF&currStreakNum=D7E7FF&dates=8AA4BF&sideLabels=8AA4BF" />
 </p>
 
 <p align="center">
@@ -128,7 +128,7 @@ environment : Linux-first mindset
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmahammad&bg_color=08111f&color=d7e7ff&line=00d1ff&point=6c63ff&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmahammad&theme=github-compact&hide_border=true&bg_color=0D1117&color=D7E7FF&line=00D1FF&point=6C63FF&area=true" width="95%" />
 </p>
 
 ---
