@@ -6,6 +6,9 @@
   <a href="https://github.com/itsmahammad">
     <img src="https://img.shields.io/badge/GitHub-08111f?style=for-the-badge&logo=github&logoColor=9be7ff&labelColor=08111f" />
   </a>
+  <a href="https://portfolio-web-page-xi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-08111f?style=for-the-badge&logo=vercel&logoColor=9be7ff&labelColor=08111f" />
+  </a>
   <a href="https://www.linkedin.com/in/itsmahammad/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1624?style=for-the-badge&logo=linkedin&logoColor=9be7ff&labelColor=0d1624" />
   </a>
