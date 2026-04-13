@@ -115,8 +115,8 @@ environment : Linux-first mindset
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsmahammad&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmahammad&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsmahammad&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsmahammad&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 </p>
 
 <p align="center">
@@ -128,7 +128,7 @@ environment : Linux-first mindset
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmahammad&theme=github-compact&hide_border=true&bg_color=0D1117&color=D7E7FF&line=00D1FF&point=6C63FF&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=itsmahammad&theme=github-compact&hide_border=true&bg_color=0D1117&color=D7E7FF&line=00D1FF&point=6C63FF&area=true" width="95%" />
 </p>
 
 ---
@@ -173,3 +173,4 @@ If you are building systems where correctness, maintainability, and delivery dis
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:08111f,48:0f2a3d,78:00d1ff,100:5b2cff" />
 </p>
+
