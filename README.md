@@ -6,7 +6,7 @@
   <a href="https://github.com/itsmahammad">
     <img src="https://img.shields.io/badge/GitHub-08111f?style=for-the-badge&logo=github&logoColor=9be7ff&labelColor=08111f" />
   </a>
-  <a href="https://portfolio-web-page-xi.vercel.app/">
+  <a href="https://mahammad-mammadov.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-08111f?style=for-the-badge&logo=vercel&logoColor=9be7ff&labelColor=08111f" />
   </a>
   <a href="https://www.linkedin.com/in/itsmahammad/">
@@ -171,9 +171,7 @@ If you are building systems where correctness, maintainability, and delivery dis
 
 <p align="center">
   <a href="mailto:mahammadjm-azmpa201@code.edu.az">mahammadjm-azmpa201@code.edu.az</a><br/>
-  <a href="https://github.com/itsmahammad">github.com/itsmahammad</a><br/>
   <a href="https://www.linkedin.com/in/itsmahammad/">linkedin.com/in/itsmahammad</a><br/>
-  <a href="https://leetcode.com/u/itsmahammad/">leetcode.com/u/itsmahammad</a>
 </p>
 
 <p align="center">
